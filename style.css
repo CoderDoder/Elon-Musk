@@ -1,0 +1,91 @@
+body{
+    text-align: center;
+   background: linear-gradient(to left,  #f07930 50%, #ff5533 50%);
+    scroll-behavior: smooth;
+}
+#griha{
+    
+    padding: 40px;
+}
+#elon{
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: 4px 5px 3px #853728;
+    
+}
+#biodegrahy{
+    font-size: 30px;
+    font-family: cursive;
+    text-shadow: 4px 5px 3px  #853728;
+}
+#shakl{
+ height:350px;
+ width:250px;
+ border-radius: 30px;   
+}
+.menu{
+    list-style:none;
+    font-family: cursive;
+    position:absolute;
+    top:10px;
+    cursor:pointer;
+    right:350px;
+    
+}
+.link{
+    float: left;
+    color: aqua;
+    font-family: cursive;
+padding:10px;
+    font-size:30px;
+    word-spacing: 30px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.link:hover{
+    font-size: 35px;
+    color:yellow;
+    box-shadow: 4px 5px 4px 3px #853728;
+    border-radius:20px;
+}
+#About{
+    
+    margin-top: 40px
+}
+#AboutMe,#vid,#wrk,#writ{
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: 4px 5px 3px #853728;
+}
+#more{
+    font-size: 30px;
+    font-family: cursive;
+    text-shadow: 4px 5px 3px  #853728;
+}
+iframe{
+    border-radius: 20px;
+    box-shadow: 4px 5px 4px 3px #853728;
+}
+a.a_link{
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: bold; 
+    text-decoration: none;
+    height: 50px;
+    width: 60px;
+    padding: 30px;
+    background:linear-gradient(to left,#0777ab 25%,#1e9da6 50% );
+    border-radius:20px;
+    color: black;
+    box-shadow: 4px 5px 4px 3px #853728;
+}
+a.a_link:hover{
+    font-size: 40px;
+    box-shadow: 4px 5px 6px 7px #853728; 
+    
+    
+}
